@@ -1,0 +1,9 @@
+[Unit]
+Description=Aliyun ddns
+After=network.target
+
+[Service]
+ExecStart=/usr/local/bin/ddns_update.py
+
+[Install]
+WantedBy=multi-user.target

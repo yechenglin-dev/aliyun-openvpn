@@ -1,0 +1,13 @@
+aliyun-python-sdk-core==2.13.36
+certifi==2022.12.7
+cffi==1.14.5
+chardet==4.0.0
+cryptography==3.3.2
+enum34==1.1.10
+idna==2.10
+ipaddress==1.0.23
+jmespath==0.10.0
+pycparser==2.20
+requests==2.25.1
+six==1.16.0
+urllib3==1.26.5
